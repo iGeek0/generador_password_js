@@ -12,4 +12,4 @@ Este es un generador de contraseñas personalizable que permite al usuario elegi
 ## 📸 Vista Previa
 
 🔹 **Formulario de generación de contraseñas:**
-![Vista previa](ruta-de-tu-imagen.png) *(Agrega una captura de pantalla aquí)*
+![Vista previa](screen.png) *(Agrega una captura de pantalla aquí)*
