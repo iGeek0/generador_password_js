@@ -16,4 +16,4 @@ Este es un generador de contraseñas personalizable que permite al usuario elegi
 
 🔹 **Formulario de generación de contraseñas:**
 
-![Vista previa](screen.png) *(Agrega una captura de pantalla aquí)*
+![Vista previa](screen.png)
