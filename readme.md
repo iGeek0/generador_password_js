@@ -17,3 +17,8 @@ Este es un generador de contraseñas personalizable que permite al usuario elegi
 🔹 **Formulario de generación de contraseñas:**
 
 ![Vista previa](screen.png)
+
+## Test Password
+
+ - [Password Security](https://www.security.org/how-secure-is-my-password/)
+
